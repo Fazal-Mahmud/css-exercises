@@ -1,0 +1,17 @@
+.odd-number{
+    background-color: rgb(255, 182, 193);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    }
+.cooler-class{
+    font-size: 24px;
+}
+
+#even-number{
+    color: rgb(11, 22, 236);
+    font-size: 36px;
+    
+}
+#eleven-number{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+}
